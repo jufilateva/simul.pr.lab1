@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\VegetFarm\VegetFarm\bin\Debug\VegetFarm.exe.config
+C:\Users\User\source\repos\VegetFarm\VegetFarm\bin\Debug\VegetFarm.exe
+C:\Users\User\source\repos\VegetFarm\VegetFarm\bin\Debug\VegetFarm.pdb
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.Form1.resources
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.Properties.Resources.resources
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.exe
+C:\Users\User\source\repos\VegetFarm\VegetFarm\obj\Debug\VegetFarm.pdb
